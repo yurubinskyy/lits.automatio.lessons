@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Tom",
+    "age": 20,
+    "isMarried": true,
+    "books": [
+      "book1", "book2", "book3"
+    ],
+    "dog" : {
+      "name" : "Sparky",
+      "age": 4,
+      "isVaccinated": true
+    },
+    "nullvalueexample": null
+  },
+  {
+    "firstName": "Tom",
+    "age": 20,
+    "isMarried": true,
+    "books": [
+      "book1", "book2", "book3"
+    ],
+    "dog" : {
+      "name" : "Sparky",
+      "age": 4,
+      "isVaccinated": true
+    },
+    "nullvalueexample": null
+  },
+  {
+    "firstName": "Tom",
+    "age": 20,
+    "isMarried": true,
+    "books": [
+      "book1", "book2", "book3"
+    ],
+    "dog" : {
+      "name" : "Sparky",
+      "age": 4,
+      "isVaccinated": true
+    },
+    "nullvalueexample": null
+  }
+]
